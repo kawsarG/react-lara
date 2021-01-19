@@ -8,7 +8,7 @@
     <title>Fiber</title>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <script
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCzBmP_s-e1BUzOyvk9YnoZtIX40PwWfoM&callback=initMap&libraries=&libraries=places"
+        src="https://maps.googleapis.com/maps/api/js?=initMap&libraries=&libraries=places"
         defer></script>
     <link rel="stylesheet" type="text/css" href="{{asset('maps/style.css')}}" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
